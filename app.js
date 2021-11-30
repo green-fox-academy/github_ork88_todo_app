@@ -10,3 +10,5 @@ console.log (
         -r   Eltávolít egy feladatot
         -c   Teljesít egy feladatot`
         );
+
+        
